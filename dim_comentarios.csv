@@ -1,0 +1,12 @@
+Estación;Fecha;Suceso;Cod
+LIM;18/11/2022;Inicio - Accidente en el AJCH (camión de bomberos se estrelló contra un avión de Latam en la pista de aterrizaje);A
+LIM;18/11/2022;Fin - Accidente en el AJCH (camión de bomberos se estrelló contra un avión de Latam en la pista de aterrizaje);A
+LIM;01/01/2023;Inicio - Conflicto social, las protestas en el país se reanudaron;B
+LIM;28/02/2024;Fin - Conflicto social, las protestas en el país se reanudaron;B
+CUZ;01/01/2023;Inicio - Conflicto social, las protestas en el país se reanudaron;C
+CUZ;28/02/2024;Fin - Conflicto social, las protestas en el país se reanudaron;C
+JAE;01/02/2023;Inicio - Cierre de pista ;D
+JAE;20/07/2023;Fin - Cierre de pista;D
+JAE;21/07/2023;Inicio - Apertura de pista ;E
+JAE;29/07/2023;Fin - Apertura de pista;E
+JAE;30/07/2023;Inicio - Cierre de pista ;F
